@@ -3,4 +3,4 @@
 
 Photos:
 
-![Photo](https://media.discordapp.net/attachments/815798943941656608/847343811003678720/unknown.png)
+![Photo](https://images-ext-1.discordapp.net/external/AmnO_ra_X5TiNEYwkaaOBsY6eJ6rePuFX2LuYt1w8e8/https/i.imgur.com/haM6ZS3.png)
