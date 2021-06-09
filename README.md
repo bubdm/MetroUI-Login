@@ -7,3 +7,5 @@ Photos:
 
 # Links
 [API](https://agify.io/)
+[Requests](https://pypi.org/project/requests/)
+[colorama](https://pypi.org/project/colorama/)
